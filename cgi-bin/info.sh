@@ -17,4 +17,4 @@ echo "<td style='color: blue'>$IP</td>"
 echo "<td style='color: blue'>$HOSTNAME</td>"
 echo "</tr>"
 echo "</table>"
-echo "</div>
+echo "</div>"
